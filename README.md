@@ -34,7 +34,7 @@ Search Index Result
 
 Find Top IP Addresses
 
-![Top IP](screenshots/Find _top IP addresses.png)
+Find_top IP addresses.png
 
 Find Suspicious Activity
 
