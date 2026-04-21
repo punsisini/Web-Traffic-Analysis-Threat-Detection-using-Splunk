@@ -12,7 +12,7 @@ Apache Web Server Logs
 📥 Log Ingestion Process
 Upload Log File
 
-
+![Upload Log File](uplod log_file.png)
 
 
 Log Upload
