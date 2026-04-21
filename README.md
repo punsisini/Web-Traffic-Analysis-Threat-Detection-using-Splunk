@@ -28,7 +28,7 @@ Final Import Result
 
 📊 Data Analysis
 Search Index Result
-
+search_index_result.png 
 
 
 
@@ -38,25 +38,25 @@ Find_top IP addresses.png
 
 Find Suspicious Activity
 
-![Suspicious Activity](Find _top IP addresses.png)
+![Suspicious Activity](find_top_ip_addresses.png)
 
 Find Scanning Behavior
 
-![Scanning Behavior](screenshots/Find scanning behavior.png)
+![Scanning Behavior](screenshots/find_scanning_behavior.png)
 
 Detect Possible Attack Patterns
 
-![Attack Patterns](screenshots/Detect possible attack patterns.png)
+![Attack Patterns](screenshots/detect_attack_patterns.png)
 
 📈 Dashboard Creation
 Build Dashboard
 
-![Dashboard](screenshots/Build Dashboard.png)
+![Dashboard](screenshots/build_dashboard.png)
 
 🚨 Alert Configuration
 Create Alert
 
-![Alert](screenshots/Create alert.png)
+![Alert](screenshots/create_alert.png)
 
 🔍 Key Findings
 Identified high-frequency IP addresses indicating potential malicious behavior
