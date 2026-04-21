@@ -34,11 +34,11 @@ Search Index Result
 
 Find Top IP Addresses
 
-![Top IP](screenshots/Find top IP addresses.png)
+![Top IP](screenshots/Find _top IP addresses.png)
 
 Find Suspicious Activity
 
-![Suspicious Activity](screenshots/Find suspicious activity.png)
+![Suspicious Activity](Find _top IP addresses.png)
 
 Find Scanning Behavior
 
