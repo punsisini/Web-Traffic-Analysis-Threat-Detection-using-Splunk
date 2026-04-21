@@ -1,79 +1,112 @@
-🔍 Web Traffic Analysis & Threat Detection using Splunk
-📌 Overview
+# 🔍 Web Traffic Analysis & Threat Detection using Splunk
+
+## 📌 Overview
 
 This project demonstrates how I built a SIEM lab using Splunk to analyze Apache web server logs and detect suspicious activity.
 
 The objective was to simulate a real-world cybersecurity workflow including log ingestion, analysis, visualization, and alerting.
 
-🛠️ Tools & Technologies
-Splunk Enterprise
-Ubuntu (Virtual Machine)
-Apache Web Server Logs
+---
 
-📥 Log Ingestion Process
-Upload Log File
+## 🛠️ Tools & Technologies
+
+* Splunk Enterprise
+* Ubuntu (Virtual Machine)
+* Apache Web Server Logs
+
+---
+
+## 📥 Log Ingestion Process
+
+### Upload Log File
 
 ![Upload Log File](uplod_log_file.png)
 
+### Review File Before Upload
 
-Log Upload
+![Review File](review_file.png)
 
+### Create Text Index
 
+![Create Text Index](create_text_index.png)
 
+### Log Upload
 
-Final Import Result
+![Log Upload](logdile_uplod.png)
 
+### Final Import Result
 
+![Final Import Result](importlogfile_finalresult.png)
 
+---
 
-📊 Data Analysis
-Search Index Result
-search_index_result.png 
+## 📊 Data Analysis
 
+### Search Index Result
 
+![Search Index Result](search_index_result.png)
 
-Find Top IP Addresses
+### Find Top IP Addresses
 
-Find_top IP addresses.png
+![Top IP Addresses](find_top_ip_addresses.png)
 
-Find Suspicious Activity
+### Find Suspicious Activity
 
-![Suspicious Activity](find_top_ip_addresses.png)
+![Suspicious Activity](find_suspicious_activity.png)
 
-Find Scanning Behavior
+### Find Scanning Behavior
 
-![Scanning Behavior](screenshots/find_scanning_behavior.png)
+![Scanning Behavior](find_scanning_behavior.png)
 
-Detect Possible Attack Patterns
+### Detect Possible Attack Patterns
 
-![Attack Patterns](screenshots/detect_attack_patterns.png)
+![Attack Patterns](detect_attack_patterns.png)
 
-📈 Dashboard Creation
-Build Dashboard
+---
 
-![Dashboard](screenshots/build_dashboard.png)
+## 📈 Dashboard & Monitoring
 
-🚨 Alert Configuration
-Create Alert
+### Build Dashboard
 
-![Alert](screenshots/create_alert.png)
+![Dashboard](build_dashboard.png)
 
-🔍 Key Findings
-Identified high-frequency IP addresses indicating potential malicious behavior
-Detected scanning activity through repeated endpoint access
-Observed unusual traffic patterns and HTTP errors
-Created alerts for real-time monitoring of suspicious activity
-🎯 Skills Demonstrated
-Log ingestion and indexing in Splunk
-Writing and executing search queries
-Security event analysis
-Dashboard creation and visualization
-Alert configuration for threat detection
-🚀 Conclusion
+### Create Alert
 
-This project demonstrates practical hands-on experience with a SIEM tool and reflects the core workflow used in real-world cybersecurity operations.
+![Alert](create_alert.png)
 
-🔮 Future Improvements
-Simulate real attack scenarios (brute force, SQL injection)
-Integrate additional log sources (system logs, firewall logs)
-Enhance alert severity and automation
+---
+
+## 🔍 Key Findings
+
+* Identified high-frequency IP addresses indicating potential malicious behavior
+* Detected scanning activity through repeated endpoint access
+* Observed unusual traffic patterns and HTTP error responses
+* Created alerts for monitoring suspicious behavior
+
+---
+
+## 🎯 Skills Demonstrated
+
+* SIEM setup and usage
+* Log ingestion and indexing
+* Splunk search queries (SPL)
+* Security event analysis
+* Dashboard creation
+* Alert configuration
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates practical hands-on experience with Splunk and simulates a real-world SOC workflow for detecting and monitoring suspicious activity.
+
+---
+
+## 🔮 Future Improvements
+
+* Simulate brute-force and web-based attacks
+* Integrate additional log sources (system logs, firewall logs)
+* Improve alerting with severity levels and automation
+
+---
+
