@@ -9,10 +9,11 @@ The objective was to simulate a real-world cybersecurity workflow including log 
 Splunk Enterprise
 Ubuntu (Virtual Machine)
 Apache Web Server Logs
+
 📥 Log Ingestion Process
 Upload Log File
 
-![Upload Log File](uplod log_file.png)
+![Upload Log File](uplod_log_file.png)
 
 
 Log Upload
